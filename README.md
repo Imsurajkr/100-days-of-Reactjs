@@ -3,7 +3,7 @@
 a challenge to learn **React** everyday till 100 days 
 ## Strategy
 **Mon-Fri**  
-* concepts of react and problem solving
+* concepts of react and problem solving.
 **Sat-Sun**
 * Mini Project
 
