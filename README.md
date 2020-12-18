@@ -5,8 +5,8 @@ Reactjs is javascript library that can be used to build and maintain stateless,s
 
 # Why Reactjs?
 <img align='center' src="https://res.cloudinary.com/ankita1297/image/upload/v1608317966/why-6_fivqj9.jpg" width="630" height="300">
-1.React.js apps use virtual DOM that allows developers to virtually update changes without rewriting the entire HTML doc
-2.It renders updates faster and ensures faster performance
+1. React.js apps use virtual DOM that allows developers to virtually update changes without rewriting the entire HTML doc
+2. It renders updates faster and ensures faster performance
 * The component-driven architecture of React lets devs re-use components, saving development time, and cost
 * Full backward compatibility, and smaller bundle size
 * React.js uses virtual DOM and one-way data binding  which makes bundle size smaller and faster
