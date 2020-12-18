@@ -9,4 +9,4 @@ Reactjs is javascript library that can be used to build and maintain stateless,s
 * The component-driven architecture of React lets devs re-use components, saving development time, and cost.
 * Full backward compatibility, and smaller bundle size.
 * React.js uses virtual DOM and one-way data binding  which makes bundle size smaller and faster.
- * React.js allows isolated debugging, which helps developers achieve app’s stability. 
+* React.js allows isolated debugging, which helps developers achieve app’s stability. 
