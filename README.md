@@ -18,3 +18,11 @@ a challenge to learn **React** everyday till 100 days
 * **React** uses virtual DOM and one-way data binding  which makes bundle size smaller and faster
 * **React** allows isolated debugging, which helps developers achieve app’s stability. 
 * **React** is a library, and we can integrate it into any project (even if it is made with Angular)  while **Angular** is a framework. 
+
+# How to Install **React**?
+
+# Resources to Study
+
+# Books to follow
+
+# Week-1 Plan
