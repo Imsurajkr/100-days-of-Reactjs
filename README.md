@@ -21,6 +21,12 @@ a challenge to learn **React** everyday till 100 days
 
 # How to Install **React**?
 
+# Future of **React**
+
+# Data Flow of **React**
+
+# How to add **React** to an existing website
+
 # Resources to Study
 
 # Books to follow
